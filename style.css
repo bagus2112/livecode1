@@ -1,0 +1,20 @@
+ul{
+    list-style-type: none;
+}
+li{
+    float: left;
+    margin: 10px;
+}
+#header{
+    background-color: coral;
+    height: 30px;
+}
+a{
+    background-color:white;
+    
+}
+a:hover{
+    background-color:rgb(190, 196, 190);
+    color: white;
+    padding: 10px;
+}
